@@ -1,3 +1,3 @@
 # Pangolin_VIII_Union
-A funny server in minecraft
+A funny server in minecraft \n
 This R
