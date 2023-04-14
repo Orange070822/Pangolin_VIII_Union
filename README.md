@@ -10,7 +10,7 @@ Although it is supposed that no one excepet me will ever visit the repository, I
 
 <h2> What's included in the map? </h2>
 <ul>
-<li> <strong> Different Eras </strong> come with you development in minecraft </li>
+<li> <strong> Different Eras </strong> come with your development in minecraft </li>
 <li> <strong> Customized Weapons </strong> with variety of special effects </li>
 <li> <strong> Special Armors </strong> which can absorb tons of damage </li>
 
